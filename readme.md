@@ -7,4 +7,5 @@ Created on Tue Mar 23 17:54:15 2021
 
 *Git tutorial*
 
-Thanks!
+**Getting smarter every minute**
+
